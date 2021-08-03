@@ -1,2 +1,2 @@
 # Flex-Farmer-Dashboard
-Dashboard for FlexFarmer applocation by FlexPool
+Dashboard for FlexFarmer application by FlexPool
