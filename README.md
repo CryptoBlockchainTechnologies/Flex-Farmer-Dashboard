@@ -1,2 +1,2 @@
 # FlexFarmer_Dashboard
-Dashboard for FlexFarmer application by FlexPool
+Chia dashboard for FlexFarmer application by FlexPool
